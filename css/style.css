@@ -269,6 +269,26 @@ a:hover {
     color: #ecf0f1; 
 }
 
+.site-footer .container .footer-privacy{
+color:#ADFF2F;
+}
+
+.site-footer .container .footer-paragraph{
+color: 	#FFD700;
+}
+
+ .credits .footer-credits{
+color:	#FFFF00;
+}
+
+.credits a {
+color:	#F5DEB3;
+}
+
+.credits a:hover{
+color: 	#CD853F;
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 2.2rem;
